@@ -1,2 +1,2 @@
 # JavaHelloWorld
-# project is versioned, select the appropriate branch as the project version
+# Project is versioned, select the appropriate branch as the project version
